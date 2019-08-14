@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DatabaseExample2</string>
+    <string name="btn_genre">Genre</string>
+    <string name="btn_music">Music</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_cupdategenre">Confirm Update</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_show">Show All Music</string>
+    <string name="tiet_musicname">Enter Music Name</string>
+    <string name="tiet_artistname">Enter Artist Name</string>
+    <string name="tiet_albumname">Enter Album Name</string>
+    <string name="tiet_duration">Enter Duration</string>
+    <string name="tiet_year">Enter Year</string>
+</resources>
